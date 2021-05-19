@@ -1,4 +1,4 @@
-## Disc Scheduling Algorithms - FCFS
+## Disk Scheduling Algorithms - FCFS
 
 -----------------------------------------
 **First Come-First Serve (FCFS):**
