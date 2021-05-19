@@ -1,20 +1,13 @@
-## Banker's Algorithm
+## Non-Preemptive Process Management Algorithms
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Banker's Algorithm for Deadlock Avoidance.
+Write a program to implement following Non–Preemptive Process Management Algorithms: FCFS, HRRN, Priority, SJF
 
 ------------------------------------------
-### Output:
+### Algorithms:
 
-<p align="center">
-    <img src="./output/image1.png">
-</p>
-
-<p align="center">
-    <img src="./output/image2.png">
-</p>
-
-<p align="center">
-    <img src="./output/image3.png">
-</p>
+* [FCFS](./FCFS)
+* [HRRN](./HRRN)
+* [Priority](./Priority)
+* [SJF](./SJF)
