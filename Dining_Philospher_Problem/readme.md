@@ -2,7 +2,7 @@
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Process synchronization algorithm using threads for Dining Philosopher problem.
+**Write a program to implement Process synchronization algorithm using threads for Dining Philosopher problem.**
 
 Five silent philosophers sit at a round table with bowls of spaghetti. Forks are placed between each pair of adjacent philosophers.
 
