@@ -1,4 +1,4 @@
-## Disc Scheduling Algorithms - SSTF
+## Disk Scheduling Algorithms - SSTF
 
 -----------------------------------------
 **Shortest Seek Time First (SSTF):**
