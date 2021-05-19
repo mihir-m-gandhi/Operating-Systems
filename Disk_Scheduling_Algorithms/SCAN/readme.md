@@ -1,4 +1,4 @@
-## Disc Scheduling Algorithms - SCAN
+## Disk Scheduling Algorithms - SCAN
 
 -----------------------------------------
 **SCAN (Elevator):**
