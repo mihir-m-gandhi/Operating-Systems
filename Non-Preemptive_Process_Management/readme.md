@@ -1,15 +1,13 @@
-## Disk Scheduling Algorithms
+## Non-Preemptive Process Management Algorithms
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement following Disk Scheduling Algorithms: FCFS, SSTF, SCAN, CSCAN, LOOK, and CLOOK.
+Write a program to implement following Non–Preemptive Process Management Algorithms: FCFS, HRRN, Priority, SJF
 
 ------------------------------------------
 ### Algorithms:
 
-* [CLOOK](./CLOOK)
-* [CSCAN](./CSCAN)
 * [FCFS](./FCFS)
-* [LOOK](./LOOK)
-* [SCAN](./SCAN)
-* [SSTF](./SSTF)
+* [HRRN](./HRRN)
+* [Priority](./Priority)
+* [SJF](./SJF)
