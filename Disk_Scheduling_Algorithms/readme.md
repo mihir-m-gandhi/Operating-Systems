@@ -23,17 +23,17 @@ It is like SCAN scheduling Algorithm to some extent except the difference that, 
 ### Output:
 
 <p align="center">
-    <img src="../output/image1.png">
+    <img src="./output/image1.png">
 </p>
 
 <p align="center">
-    <img src="../output/image2.png">
+    <img src="./output/image2.png">
 </p>
 
 <p align="center">
-    <img src="../output/image3.png">
+    <img src="./output/image3.png">
 </p>
 
 <p align="center">
-    <img src="../output/image4.png">
+    <img src="./output/image4.png">
 </p>
