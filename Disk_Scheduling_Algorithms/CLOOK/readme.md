@@ -1,4 +1,4 @@
-## Disc Scheduling Algorithms - CLOOK
+## Disk Scheduling Algorithms - CLOOK
 
 -----------------------------------------
 **CLOOK:**
