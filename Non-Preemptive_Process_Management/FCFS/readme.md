@@ -9,9 +9,9 @@ CLOOK is similar to CSCAN disk scheduling algorithm. In CLOOK, the disk arm in s
 ### Output:
 
 <p align="center">
-    <img src="./output/1.png">
+    <img src="./output/1.jpg">
 </p>
 
 <p align="center">
-    <img src="./output/2.png">
+    <img src="./output/2.jpg">
 </p>
