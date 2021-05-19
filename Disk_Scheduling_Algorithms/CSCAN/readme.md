@@ -1,4 +1,4 @@
-## Disc Scheduling Algorithms - CSCAN
+## Disk Scheduling Algorithms - CSCAN
 
 -----------------------------------------
 **CSCAN:**
