@@ -13,5 +13,3 @@ Write a program to implement following Disk Scheduling Algorithms: FCFS, SSTF, S
 * [LOOK](./LOOK)
 * [SCAN](./SCAN)
 * [SSTF](./SSTF)
-
-
