@@ -12,13 +12,13 @@
 ### Output:
 
 <p align="center">
-    <img src="./output/1.jpg">
+    <img src="./output/1.png">
 </p>
 
 <p align="center">
-    <img src="./output/2.jpg">
+    <img src="./output/2.png">
 </p>
 
 <p align="center">
-    <img src="./output/3.jpg">
+    <img src="./output/3.png">
 </p>
