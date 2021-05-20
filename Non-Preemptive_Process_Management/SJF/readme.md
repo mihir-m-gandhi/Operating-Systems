@@ -1,9 +1,9 @@
-## Non-Preemptive Process Management - FCFS
+## Non-Preemptive Process Management - SJF
 
 -----------------------------------------
-**FCFS:**
+**Shortest Job First (SJF):**
 
-Given n processes with their burst times, the task is to find average waiting time and average turnaround time using FCFS scheduling algorithm. First come, first served (FCFS), also known as first in, first out (FIFO), is the simplest scheduling algorithm. FIFO simply queues processes in the order that they arrive in the ready queue. In this, the process that comes first will be executed first and next process starts only after the previous gets fully executed.
+Shortest Job First scheduling works on the process with the shortest burst time or duration first. This is the best approach to minimize waiting time and is used in Batch Systems. This scheduling algorithm is optimal if all the jobs/processes are available at the same time.
 
 ------------------------------------------
 ### Output:

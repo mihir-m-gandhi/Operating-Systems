@@ -1,13 +1,12 @@
-## Non-Preemptive Process Management Algorithms
+## Preemptive Process Management Algorithms
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement following Non–Preemptive Process Management Algorithms: FCFS, HRRN, Priority, SJF
+Write a program to implement following Preemptive Process Management Algorithms: Round Robin, SRTN, Priority
 
 ------------------------------------------
 ### Algorithms:
 
-* [FCFS](./FCFS)
-* [HRRN](./HRRN)
 * [Priority](./Priority)
-* [SJF](./SJF)
+* [Round_Robin](./Round_Robin)
+* [SRTN](./SRTN)

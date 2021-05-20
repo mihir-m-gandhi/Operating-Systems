@@ -1,9 +1,10 @@
-## Non-Preemptive Process Management - FCFS
+## Non-Preemptive Process Management - Priority
 
 -----------------------------------------
-**FCFS:**
+**Priority Scheduling:**
 
-Given n processes with their burst times, the task is to find average waiting time and average turnaround time using FCFS scheduling algorithm. First come, first served (FCFS), also known as first in, first out (FIFO), is the simplest scheduling algorithm. FIFO simply queues processes in the order that they arrive in the ready queue. In this, the process that comes first will be executed first and next process starts only after the previous gets fully executed.
+Priority scheduling is a non-preemptive algorithm and one of the most common scheduling algorithms in batch systems. Each process is assigned first arrival time
+(less arrival time process first) if two processes have same arrival time, then compare to priorities (highest process first). Also, if two processes have same priority then compare to process number (less process number first). This process is repeated while all process get executed.
 
 ------------------------------------------
 ### Output:
