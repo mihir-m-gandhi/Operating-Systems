@@ -7,7 +7,6 @@
 
 * The difference between preemptive priority scheduling and non preemptive priority scheduling is that, in the preemptive priority scheduling, the job which is being executed can be stopped at the arrival of a higher priority job.
 
-
 ------------------------------------------
 ### Output:
 
