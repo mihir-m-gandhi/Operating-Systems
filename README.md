@@ -18,6 +18,8 @@
 * [Non-Preemptive_Process_Management](./Non-Preemptive_Process_Management)
 * [Preemptive_Process_Management](./Preemptive_Process_Management)
 * [Producer_Consumer_Problem](./Producer_Consumer_Problem)
+* [Reader_Writer_Problem](./Reader_Writer_Problem)
+
 
 ------------------------------------------
 ### Author
