@@ -10,6 +10,3 @@ Write a program to simulate following File Allocation Strategies: Sequential, Li
 * [Sequential](./Sequential)
 * [Linked](./Linked)
 * [Indexed](./Indexed)
-
-
-
