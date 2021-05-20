@@ -1,12 +1,11 @@
-## Preemptive Process Management - Priority
+## Preemptive Process Management - Round Robin
 
 -----------------------------------------
-**Priority Scheduling:**
+**Round Robin:**
 
-* In Preemptive Priority Scheduling, at the time of arrival of a process in the ready queue, its Priority is compared with the priority of the other processes present in the ready queue as well as with the one which is being executed by the CPU at that point of time. The one with the highest priority among all the available processes will be given the CPU next.
-
-* The difference between preemptive priority scheduling and non preemptive priority scheduling is that, in the preemptive priority scheduling, the job which is being executed can be stopped at the arrival of a higher priority job.
-
+* A fixed time is allotted to each process, called quantum, for execution.
+* Once a process is executed for given time period that process is preemptied and other process executes for given time period.
+* Context switching is used to save states of preemptied processes.
 
 ------------------------------------------
 ### Output:
@@ -21,4 +20,8 @@
 
 <p align="center">
     <img src="./output/3.png">
+</p>
+
+<p align="center">
+    <img src="./output/4.png">
 </p>
