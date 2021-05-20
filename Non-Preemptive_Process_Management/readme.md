@@ -11,5 +11,3 @@ Write a program to implement following Non–Preemptive Process Management Algor
 * [HRRN](./HRRN)
 * [Priority](./Priority)
 * [SJF](./SJF)
-
-
