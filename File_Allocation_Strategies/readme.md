@@ -1,15 +1,12 @@
-## Disk Scheduling Algorithms
+## File Allocation Strategies
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement following Disk Scheduling Algorithms: FCFS, SSTF, SCAN, CSCAN, LOOK, and CLOOK.
+Write a program to simulate following File Allocation Strategies: Sequential, Linked, Indexed.
 
 ------------------------------------------
-### Algorithms:
+### Strategies:
 
-* [CLOOK](./CLOOK)
-* [CSCAN](./CSCAN)
-* [FCFS](./FCFS)
-* [LOOK](./LOOK)
-* [SCAN](./SCAN)
-* [SSTF](./SSTF)
+* [Sequential](./Sequential)
+* [Linked](./Linked)
+* [Indexed](./Indexed)
