@@ -1,12 +1,11 @@
-## Preemptive Process Management - Priority
+## Preemptive Process Management - SRTN
 
 -----------------------------------------
-**Priority Scheduling:**
+**Shortest Remaining Time Next (SRTN):**
 
-* In Preemptive Priority Scheduling, at the time of arrival of a process in the ready queue, its Priority is compared with the priority of the other processes present in the ready queue as well as with the one which is being executed by the CPU at that point of time. The one with the highest priority among all the available processes will be given the CPU next.
-
-* The difference between preemptive priority scheduling and non preemptive priority scheduling is that, in the preemptive priority scheduling, the job which is being executed can be stopped at the arrival of a higher priority job.
-
+* Shortest Remaining Time Next (SRTN) is the preemptive version of the SJN algorithm. 
+* The processor is allocated to the job closest to completion but it can be preempted by a newer ready job with shorter time to completion.
+* Impossible to implement in interactive systems where required CPU time is not known. It is often used in batch environments where short jobs need to give preference.
 
 ------------------------------------------
 ### Output:
@@ -17,8 +16,4 @@
 
 <p align="center">
     <img src="./output/2.png">
-</p>
-
-<p align="center">
-    <img src="./output/3.png">
 </p>
