@@ -21,5 +21,3 @@ As the buffer is a shared data structure, we have to control the access to it us
 <p align="center">
     <img src="./output/3.png">
 </p>
-
-
