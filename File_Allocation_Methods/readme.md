@@ -1,20 +1,15 @@
-## Banker's Algorithm
+## Disk Scheduling Algorithms
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Banker's Algorithm for Deadlock Avoidance.
+Write a program to implement following Disk Scheduling Algorithms: FCFS, SSTF, SCAN, CSCAN, LOOK, and CLOOK.
 
 ------------------------------------------
-### Output:
+### Algorithms:
 
-<p align="center">
-    <img src="./output/image1.png">
-</p>
-
-<p align="center">
-    <img src="./output/image2.png">
-</p>
-
-<p align="center">
-    <img src="./output/image3.png">
-</p>
+* [CLOOK](./CLOOK)
+* [CSCAN](./CSCAN)
+* [FCFS](./FCFS)
+* [LOOK](./LOOK)
+* [SCAN](./SCAN)
+* [SSTF](./SSTF)
