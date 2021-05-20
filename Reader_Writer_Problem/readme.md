@@ -29,4 +29,3 @@ When a writer is writing data to the resource, no other process can access the r
 <p align="center">
     <img src="./output/4.png">
 </p>
-
