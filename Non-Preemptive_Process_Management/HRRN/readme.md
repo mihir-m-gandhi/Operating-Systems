@@ -1,9 +1,13 @@
-## Non-Preemptive Process Management - FCFS
+## Non-Preemptive Process Management - HRRN
 
 -----------------------------------------
-**FCFS:**
+**Highest Response Ratio Next (HRRN):**
 
-Given n processes with their burst times, the task is to find average waiting time and average turnaround time using FCFS scheduling algorithm. First come, first served (FCFS), also known as first in, first out (FIFO), is the simplest scheduling algorithm. FIFO simply queues processes in the order that they arrive in the ready queue. In this, the process that comes first will be executed first and next process starts only after the previous gets fully executed.
+Given n processes with their Arrival times and Burst times, the task is to find average waiting time and average turn around time using HRRN scheduling algorithm. The name itself states that we need to find the response ratio of all available processes and select the one with the highest Response Ratio. A process once selected will run till completion.
+
+<p align="center">
+    <img src="./hrrn.png">
+</p>
 
 ------------------------------------------
 ### Output:
