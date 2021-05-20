@@ -1,9 +1,13 @@
-## Disk Scheduling Algorithms - CLOOK
+## File Allocation Strategies - Indexed
 
 -----------------------------------------
-**CLOOK:**
+**Indexed Strategy:**
 
-CLOOK is similar to CSCAN disk scheduling algorithm. In CLOOK, the disk arm in spite of going to the end goes only to the last request to be serviced in front of the head and then from there goes to the other end’s last request. Thus, it also prevents the extra delay which occurred due to unnecessary traversal to the end of the disk.
+Instead of maintaining a file allocation table of all the disk pointers, Indexed allocation scheme stores all the disk pointers in one of the blocks called as indexed block. Indexed block doesn't hold the file data, but it holds the pointers to all the disk blocks allocated to that particular file. Directory entry will only contain the index block address.
+
+<p align="center">
+    <img src="./example.png">
+</p>
 
 ------------------------------------------
 ### Output:
@@ -14,4 +18,12 @@ CLOOK is similar to CSCAN disk scheduling algorithm. In CLOOK, the disk arm in s
 
 <p align="center">
     <img src="./output/2.png">
+</p>
+
+<p align="center">
+    <img src="./output/3.png">
+</p>
+
+<p align="center">
+    <img src="./output/4.png">
 </p>
