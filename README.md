@@ -14,7 +14,7 @@
 * [Banker's_Algorithm](./Banker's_Algorithm)
 * [Dining_Philospher_Problem](./Dining_Philospher_Problem)
 * [Disk_Scheduling_Algorithms](./Disk_Scheduling_Algorithms)
-* [File_Allocation_Methods](./File_Allocation_Methods)
+* [File_Allocation_Strategies](./File_Allocation_Strategies)
 * [Non-Preemptive_Process_Management](./Non-Preemptive_Process_Management)
 * [Preemptive_Process_Management](./Preemptive_Process_Management)
 * [Producer_Consumer_Problem](./Producer_Consumer_Problem)
