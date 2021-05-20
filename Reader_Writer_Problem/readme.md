@@ -22,9 +22,8 @@ When a writer is writing data to the resource, no other process can access the r
     <img src="./output/3.png">
 </p>
 
-“Test.txt” after termination of program (Initially blank)
-
 <p align="center">
+    “Test.txt” after termination of program (Initially blank)
     <img src="./output/4.png">
 </p>
 
