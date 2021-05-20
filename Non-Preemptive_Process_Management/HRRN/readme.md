@@ -19,5 +19,3 @@ Given n processes with their Arrival times and Burst times, the task is to find 
 <p align="center">
     <img src="./output/2.jpg">
 </p>
-
-
