@@ -1,9 +1,15 @@
-## Disk Scheduling Algorithms - CLOOK
+## File Allocation Strategies - Sequential
 
 -----------------------------------------
-**CLOOK:**
+**Sequential Strategy:**
 
-CLOOK is similar to CSCAN disk scheduling algorithm. In CLOOK, the disk arm in spite of going to the end goes only to the last request to be serviced in front of the head and then from there goes to the other end’s last request. Thus, it also prevents the extra delay which occurred due to unnecessary traversal to the end of the disk.
+If the blocks are allocated to the file in such a way that all the logical blocks of the file get the contiguous physical block in the hard disk then such allocation scheme is known as contiguous allocation.
+
+In the image shown below, there are three files in the directory. The starting block and the length of each file are mentioned in the table. We can check in the table that the contiguous blocks are assigned to each file as per its need.
+
+<p align="center">
+    <img src="./example.png">
+</p>
 
 ------------------------------------------
 ### Output:
@@ -15,3 +21,16 @@ CLOOK is similar to CSCAN disk scheduling algorithm. In CLOOK, the disk arm in s
 <p align="center">
     <img src="./output/2.png">
 </p>
+
+<p align="center">
+    <img src="./output/3.png">
+</p>
+
+<p align="center">
+    <img src="./output/4.png">
+</p>
+
+<p align="center">
+    <img src="./output/5.png">
+</p>
+
