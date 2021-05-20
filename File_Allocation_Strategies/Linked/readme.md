@@ -1,9 +1,13 @@
-## Disk Scheduling Algorithms - CLOOK
+## File Allocation Strategies - Linked
 
 -----------------------------------------
-**CLOOK:**
+**Linked Strategy:**
 
-CLOOK is similar to CSCAN disk scheduling algorithm. In CLOOK, the disk arm in spite of going to the end goes only to the last request to be serviced in front of the head and then from there goes to the other end’s last request. Thus, it also prevents the extra delay which occurred due to unnecessary traversal to the end of the disk.
+Linked List allocation solves all problems of contiguous allocation. In linked list allocation, each file is considered as the linked list of disk blocks. However, the disks blocks allocated to a particular file need not to be contiguous on the disk. Each disk block allocated to a file contains a pointer which points to the next disk block allocated to the same file.
+
+<p align="center">
+    <img src="./example.png">
+</p>
 
 ------------------------------------------
 ### Output:
@@ -15,3 +19,8 @@ CLOOK is similar to CSCAN disk scheduling algorithm. In CLOOK, the disk arm in s
 <p align="center">
     <img src="./output/2.png">
 </p>
+
+<p align="center">
+    <img src="./output/3.png">
+</p>
+
